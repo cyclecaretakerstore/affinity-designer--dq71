@@ -1,4 +1,4 @@
-
+Enhance Affinity Designer for macOS with updated Automation for Affinity Designer for macOS - version history and batch processing, the #1 automation. Includes version history and
 
 
 
